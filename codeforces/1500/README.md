@@ -1,0 +1,17 @@
+# Codeforces 1500 Rating Submissions
+
+| # | Title | Solution | Tags | Submitted |
+|:-:|-------|----------|------|-----------|
+| 13 | [F - Range Update Point Query](https://codeforces.com/contest/1791/problem/F) | [C++20 (GCC 13-64)](https://codeforces.com/contest/1791/submission/280048672) | `binary search` `brute force` `data structures` `*1500` | Sep/06/2024 04:11 PM |
+| 12 | [D - Binary String Minimizing](https://codeforces.com/contest/1256/problem/D) | [C++20 (GCC 13-64)](https://codeforces.com/contest/1256/submission/279787055) | `greedy` `*1500` | Sep/04/2024 04:43 PM |
+| 11 | [G - Even-Odd XOR](https://codeforces.com/contest/1722/problem/G) | [C++20 (GCC 13-64)](https://codeforces.com/contest/1722/submission/279304878) | `bitmasks` `constructive algorithms` `greedy` `*1500` | Sep/02/2024 02:50 PM |
+| 10 | [E - Price Maximization](https://codeforces.com/contest/1690/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1690/submission/274022843) | `binary search` `greedy` `math` `two pointers` `*1500` | Aug/02/2024 06:50 PM |
+| 9 | [F - Quests](https://codeforces.com/contest/1760/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1760/submission/273327830) | `binary search` `greedy` `sortings` `*1500` | Jul/29/2024 05:38 PM |
+| 8 | [C - Card Game](https://codeforces.com/contest/1882/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1882/submission/271005636) | `brute force` `greedy` `*1500` | Jul/17/2024 04:02 PM |
+| 7 | [C - Two TVs](https://codeforces.com/contest/845/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/845/submission/270423395) | `data structures` `greedy` `sortings` `*1500` | Jul/14/2024 01:46 PM |
+| 6 | [C - Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/276/submission/270380411) | `data structures` `greedy` `implementation` `sortings` `*1500` | Jul/14/2024 02:25 AM |
+| 5 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1926/submission/269450002) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | Jul/08/2024 10:58 PM |
+| 4 | [F - Greetings](https://codeforces.com/contest/1915/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1915/submission/267607509) | `data structures` `divide and conquer` `sortings` `*1500` | Jun/27/2024 11:51 AM |
+| 3 | [H2 - Maximum Crossings (Hard Version)](https://codeforces.com/contest/1676/problem/H2) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1676/submission/267501884) | `data structures` `divide and conquer` `sortings` `*1500` | Jun/26/2024 04:27 PM |
+| 2 | [D2 - Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | [C++20 (GCC 11-64)](https://codeforces.com/contest/1419/submission/247633211) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | Feb/21/2024 09:26 PM |
+| 1 | [H - A + B Strikes Back](https://codeforces.com/contest/409/problem/H) | [C++20 (GCC 11-64)](https://codeforces.com/contest/409/submission/220945247) | `*special` `brute force` `constructive algorithms` `dsu` `implementation` `*1500` | Aug/29/2023 02:49 PM |

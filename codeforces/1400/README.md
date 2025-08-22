@@ -1,0 +1,22 @@
+# Codeforces 1400 Rating Submissions
+
+| # | Title | Solution | Tags | Submitted |
+|:-:|-------|----------|------|-----------|
+| 18 | [C - Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | [C++20 (GCC 13-64)](https://codeforces.com/contest/612/submission/289178535) | `data structures` `expression parsing` `math` `*1400` | Nov/01/2024 07:43 PM |
+| 17 | [E - Iva & Pav](https://codeforces.com/contest/1878/problem/E) | [C++20 (GCC 13-64)](https://codeforces.com/contest/1878/submission/281018267) | `binary search` `bitmasks` `data structures` `greedy` `*1400` | Sep/13/2024 10:57 PM |
+| 16 | [C - Ticket Hoarding](https://codeforces.com/contest/1951/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1951/submission/273720952) | `greedy` `math` `sortings` `*1400` | Jul/31/2024 06:28 PM |
+| 15 | [C - Two Movies](https://codeforces.com/contest/1989/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1989/submission/273603540) | `greedy` `math` `*1400` | Jul/30/2024 11:23 PM |
+| 14 | [C - LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1682/submission/273147237) | `constructive algorithms` `greedy` `implementation` `math` `*1400` | Jul/28/2024 08:48 PM |
+| 13 | [D - Epic Transformation](https://codeforces.com/contest/1506/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1506/submission/270844025) | `constructive algorithms` `data structures` `greedy` `*1400` | Jul/16/2024 03:22 PM |
+| 12 | [A - Greg and Array](https://codeforces.com/contest/295/problem/A) | [C++17 (GCC 7-32)](https://codeforces.com/contest/295/submission/270640855) | `data structures` `implementation` `*1400` | Jul/15/2024 07:51 PM |
+| 11 | [B - Karen and Coffee](https://codeforces.com/contest/816/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/816/submission/270448449) | `binary search` `data structures` `implementation` `*1400` | Jul/14/2024 05:06 PM |
+| 10 | [C - Array Game](https://codeforces.com/contest/1904/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1904/submission/270355916) | `binary search` `brute force` `data structures` `sortings` `two pointers` `*1400` | Jul/13/2024 10:37 PM |
+| 9 | [C - Palindromifier](https://codeforces.com/contest/1421/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1421/submission/269579994) | `constructive algorithms` `strings` `*1400` | Jul/09/2024 07:37 PM |
+| 8 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1285/submission/267987637) | `brute force` `math` `number theory` `*1400` | Jun/29/2024 05:07 PM |
+| 7 | [H1 - Maximum Crossings (Easy Version)](https://codeforces.com/contest/1676/problem/H1) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1676/submission/267501558) | `brute force` `*1400` | Jun/26/2024 04:24 PM |
+| 6 | [C - Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1974/submission/262054525) | `combinatorics` `data structures` `*1400` | May/21/2024 11:13 PM |
+| 5 | [A - k-th divisor](https://codeforces.com/contest/762/problem/A) | [C++17 (GCC 7-32)](https://codeforces.com/contest/762/submission/261616113) | `math` `number theory` `*1400` | May/19/2024 01:28 PM |
+| 4 | [C - Number Game](https://codeforces.com/contest/1749/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1749/submission/260583166) | `binary search` `data structures` `games` `greedy` `implementation` `*1400` | May/12/2024 02:13 AM |
+| 3 | [C - Maximum Median](https://codeforces.com/contest/1201/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1201/submission/260156990) | `binary search` `greedy` `math` `sortings` `*1400` | May/09/2024 11:09 PM |
+| 2 | [D - Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1840/submission/259892344) | `binary search` `greedy` `sortings` `*1400` | May/07/2024 08:55 PM |
+| 1 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/550/submission/258971752) | `bitmasks` `brute force` `*1400` | May/01/2024 12:29 PM |
